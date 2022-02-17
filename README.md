@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teamraxy&label=Profile%20views&color=0e75b6&style=flat" alt="teamraxy" /> </p>
 
 - 🌱 I’m currently learning **GTA V Mulitplayer API**
-
+- 👯 I’m coding with swips#4516
 - 📫 How to reach me **Discord: Teamraxy#6300**
 
 <p align="left">
