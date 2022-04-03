@@ -2,7 +2,7 @@
 <h3 align="center">Developer since 2020</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teamraxy&label=Profile%20views&color=0e75b6&style=flat" alt="teamraxy" /> </p>
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P4BYANU)
 - 🌱 I’m currently learning **nothing**
 - 👯 I’m coding with some people.
 - 📫 How to reach me **Discord: Teamraxy#6300**
