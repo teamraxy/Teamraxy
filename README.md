@@ -2,7 +2,7 @@
 <h3 align="center">Developer since 2020</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teamraxy&label=Profile%20views&color=0e75b6&style=flat" alt="teamraxy" /> </p>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'P5P4BYANU');kofiwidget2.draw();</script> 
+<a href='https://ko-fi.com/P5P4BYANU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 - 🌱 I’m currently learning **nothing**
 - 👯 I’m coding with some people.
 - 📫 How to reach me **Discord: Teamraxy#6300**
