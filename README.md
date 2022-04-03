@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teamraxy&label=Profile%20views&color=0e75b6&style=flat" alt="teamraxy" /> </p>
 <a href='https://ko-fi.com/P5P4BYANU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 - 🌱 I’m currently learning **nothing**
 - 👯 I’m coding with some people.
 - 📫 How to reach me **Discord: Teamraxy#6300**
